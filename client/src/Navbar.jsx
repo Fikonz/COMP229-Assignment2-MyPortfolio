@@ -20,7 +20,7 @@ export default function Navbar({ currentPage, setCurrentPage, isLoggedIn, onLogo
         color: "#fff",
       }}
     >
-      <div style={{ fontWeight: "bold", fontSize: "1.1rem" }}>Feyisayo Habeeb</div>
+      <div style={{ fontWeight: "bold", fontSize: "1.1rem" }}>Feyisayo(FEY) Habeeb</div>
 
       <div>
         <button style={linkStyle("home")} onClick={() => setCurrentPage("home")}>
