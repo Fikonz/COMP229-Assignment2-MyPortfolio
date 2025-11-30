@@ -19,7 +19,7 @@ function Navbar({ user, onLogout }) {
       <nav className="navbar">
         {/* Brand / logo */}
         <button className="brand" onClick={handleBrandClick}>
-          <span className="brand-first">Feyisayo</span>{" "}
+          <span className="brand-first">Feyisayo (FEY) </span>{" "}
           <span className="brand-last">Habeeb</span>
         </button>
 
